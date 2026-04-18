@@ -1,0 +1,75 @@
+{
+  "vehicle": {
+    "name": "Vehicle Insurance",
+    "steps": [
+      "Ensure safety and check for injuries.",
+      "Call emergency services if required.",
+      "Take photographs of damage and accident scene.",
+      "Exchange contact and insurance info with other parties.",
+      "Inform the insurance company immediately.",
+      "Submit the claim through the mobile app or website."
+    ],
+    "documents": [
+      "Insurance Policy Copy",
+      "Driving License",
+      "Vehicle Registration Certificate (RC)",
+      "FIR Copy (if applicable)",
+      "Photographs of damage",
+      "Estimated repair bills"
+    ]
+  },
+
+  "health": {
+    "name": "Health Insurance",
+    "steps": [
+      "Seek medical attention at a network hospital if possible.",
+      "Inform the TPA or insurance company.",
+      "Provide the health card at the hospital admission desk.",
+      "Keep all medical bills, reports, and prescriptions safe.",
+      "File for reimbursement or opt for cashless facility.",
+      "Submit discharge summary and final hospital bill."
+    ],
+    "documents": [
+      "Health Card / Policy Copy",
+      "Original Hospital Bills & Receipts",
+      "Discharge Summary",
+      "Diagnostic Reports (X-ray, MRI, blood tests)",
+      "Prescriptions and pharmacy bills",
+      "Doctor's consultation notes"
+    ]
+  },
+
+  "life": {
+    "name": "Life Insurance",
+    "steps": [
+      "Notify the insurance provider about the demise of the insured.",
+      "Ensure you have the original policy document.",
+      "Collect necessary legal and medical certificates.",
+      "Fill out the claim application form.",
+      "Submit the documents to the nearest insurance branch.",
+      "Wait for verification and settlement."
+    ],
+    "documents": [
+      "Original Policy Document",
+      "Death Certificate",
+      "Claimant ID Proof",
+      "Medical Certificate",
+      "Post-mortem report",
+      "Cancelled cheque"
+    ]
+  },
+
+  "status_descriptions": [
+    "Your claim is currently Under Review.",
+    "Your claim has been Approved.",
+    "Your claim is Processing.",
+    "Your claim is Pending additional information.",
+    "Your claim has been Rejected."
+  ],
+
+  "common_responses": {
+    "greeting": "Hello! I'm InsureAssist AI. How can I help you today?",
+    "not_found": "Please specify Vehicle, Health, or Life insurance.",
+    "help": "You can ask about claims, documents, or status."
+  }
+}
